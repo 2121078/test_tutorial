@@ -1,1 +1,2 @@
-Inside Three.text file 
+Inside Three.text file
+Added another text
